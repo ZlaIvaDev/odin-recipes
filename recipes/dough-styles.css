@@ -3,7 +3,7 @@ html {
 }
 
 .text {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Courier New', Courier, monospace
     padding: auto;
     margin-left: 20px;
 }
