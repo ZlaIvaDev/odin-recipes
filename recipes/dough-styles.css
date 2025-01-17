@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(50, 166, 128);
+}
+
+.text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: auto;
+    margin-left: 20px;
+}
+
+.slika {
+    padding: 20px;
+}
+
+#home {
+    background-color: rgb(127 255 122 /0.3);
+    color: black;
+    border-style: ridge;
+    text-align: center;
+    padding: 5px;
+}

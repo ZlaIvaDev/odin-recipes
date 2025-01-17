@@ -1,0 +1,51 @@
+.wrapper {
+    
+    background-image: url('img/pizza-fo.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    
+    
+    
+}
+
+.introduction {
+    background-color: rgba(244, 255, 255, 0.75);
+    border-style: groove;
+    border-start-end-radius: auto;
+    
+    padding: 25px;
+    margin: auto;
+}
+p {
+    text-align: center;
+    margin: 10px;
+    padding: auto;
+    
+}
+
+h1 {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center; 
+}
+h2 {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    
+}
+a {
+    margin: 25px;
+    color: aliceblue;
+    background-color: black;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+#pizzas {
+    text-align: center;
+    padding: 40px;
+}
